@@ -1,0 +1,20 @@
+Nieprawidlowy argument
+Lunar Client Lite nie rozpoznaje
+jako wazny argument.
+Lunar Client Lite nie mogl uruchomic klienta Lunar.
+Sprawdz okreslony plik wykonywalny Java.
+Błąd: klient Lunar nie jest zainstalowany
+Na tym urządzeniu nie ma instalacji klienta Lunar.
+Kliknij OK, aby zainstalować najnowszą wersję klienta Lunar.
+Pobieranie klienta Lunar...
+Blad pobierania
+Nie można pobrać klienta Lunar.
+Sprawdz polaczenie internetowe i sprobuj ponownie.
+Błąd: Nie znaleziono wersji
+nie znaleziono na tym urządzeniu!
+Prosze zainstalować LC
+Wybierz katalog dla klienta ksiezycowego
+Ustawienia zapisane
+Twoje ustawienia zostały zapisane.
+Wybierz nowy plik wykonywalny Java
+Plik wykonywalny Java

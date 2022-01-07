@@ -1,0 +1,18 @@
+Menu
+Ustawienia
+Info
+Java
+Sciezka
+Opcje uruchamiania
+Kosmetyki
+Plik wykonywalny Java
+Okresl wlasny plik wykonywalny Java do uzycia z klientem Lunar.
+Argumenty JVM
+Lunar Client Lite wykonany przez
+4j7l
+Repozytorium GitHub
+Zresetuj clienta Lunar  Lite.
+Resetowanie
+Otwórz folder dzienników.
+otwarty
+Język
